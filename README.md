@@ -21,3 +21,20 @@ Institution, city, country and program filtering; search; map interactions; inst
 ## Libraries
 
 D3 v7 and topojson-client v3 (ISC); world-atlas / Natural Earth geometry (public domain). University marks belong to Missouri State University.
+
+## Embedded and full-screen layouts
+
+The directory adapts to its own viewport. Windows at or below 1,000px wide, or 650px high, use a compact header, filter drawer and readable list rows without horizontal table scrolling. Windows shorter than 440px initially use List view. Larger windows show the persistent sidebar. Overview, Map and List views share all filters.
+
+Use `?embed=1` to request the compact presentation even in a wider frame. Full screen restores the layout appropriate to the available screen. Search, filters, sorting, page and view are preserved; “Open full view” opens the same selection in a new tab. Browsers or parent pages that disallow full screen can use that new-tab option.
+
+Example:
+
+```html
+<iframe src="https://robbiechen380.github.io/test/?embed=1"
+  title="International Partners Directory"
+  width="100%" height="480" style="border:0;"
+  allow="fullscreen" allowfullscreen></iframe>
+```
+
+Try preset or custom window sizes and copy an embed snippet at https://robbiechen380.github.io/test/embed-demo.html . This is also a convenient page for checking the actual browser and parent-page integration.
