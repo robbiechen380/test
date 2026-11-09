@@ -2,7 +2,7 @@
 
 An independent, all-English usability improvement of the supplied Data Studio report. Preserves the original school branding, names, descriptions, filter categories and source order. Improvements focus on readable text, responsive layout, working map interactions and clear detail views.
 
-Static HTML/CSS/JavaScript: no build step, application login or API keys. Hosted on GitHub Pages from the root of the main branch. All assets use relative paths for project-site compatibility.
+Static HTML/CSS/JavaScript: no build step, application login or API keys. Prepared for GitHub Pages from the root of the `msu-international-partners` branch in `robbiechen380/test`. The GitHub integration could push this branch but was denied permission to create repositories or enable Pages (403). The owner must enable Pages in repository settings. The existing main branch is unchanged. All assets use relative paths for project-site compatibility.
 
 ## Sources
 
@@ -24,3 +24,12 @@ D3 v7 and topojson-client v3 (ISC); world-atlas / Natural Earth geometry (public
 ## Check
 
 `node --check app.js`. Serve the repository root through a static server for use; opening index.html directly under file:// will prevent JSON loading.
+
+## Enable public hosting
+
+1. Open https://github.com/robbiechen380/test/settings/pages
+2. Under Build and deployment, select Deploy from a branch.
+3. Select branch `msu-international-partners`, folder `/ (root)`, then Save.
+4. Wait for GitHub Pages deployment. Expected URL: https://robbiechen380.github.io/test/ (not live until Pages is enabled).
+
+A full source comparison is available in `master-list-comparison.csv`.
