@@ -1,0 +1,486 @@
+{
+  "institutions": [
+    {
+      "id": "agreement-001",
+      "name": "Alfred Ford School of Management",
+      "country": "Belgium",
+      "agreementTypes": [
+        "University Agreement"
+      ]
+    },
+    {
+      "id": "agreement-002",
+      "name": "Universidad De Aquino",
+      "country": "Bolivia",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-003",
+      "name": "Centro Universitário Cidade Verde (UniCV)",
+      "country": "Brazil",
+      "agreementTypes": [
+        "University Agreement"
+      ]
+    },
+    {
+      "id": "agreement-004",
+      "name": "Centro Universitário do Estado do Pará (CESUPA)",
+      "country": "Brazil",
+      "agreementTypes": [
+        "University Agreement"
+      ]
+    },
+    {
+      "id": "agreement-005",
+      "name": "Mackenzie Presbyterian University (UPM）",
+      "country": "Brazil",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-006",
+      "name": "Universidade Cesumar",
+      "country": "Brazil",
+      "agreementTypes": [
+        "University Agreement"
+      ]
+    },
+    {
+      "id": "agreement-007",
+      "name": "Changsha University of Science and Technology (CUST)",
+      "country": "China",
+      "agreementTypes": [
+        "University Agreement"
+      ]
+    },
+    {
+      "id": "agreement-008",
+      "name": "Guangxi University (GXU)",
+      "country": "China",
+      "agreementTypes": [
+        "University Agreement"
+      ]
+    },
+    {
+      "id": "agreement-009",
+      "name": "Guizhou University (GU)",
+      "country": "China",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-010",
+      "name": "Jiaxing University (JXU)",
+      "country": "China",
+      "agreementTypes": [
+        "University Agreement"
+      ]
+    },
+    {
+      "id": "agreement-011",
+      "name": "Liaoning Normal University (LNNU)",
+      "country": "China",
+      "agreementTypes": [
+        "University Agreement"
+      ]
+    },
+    {
+      "id": "agreement-012",
+      "name": "Ningxia University (NXU)",
+      "country": "China",
+      "agreementTypes": [
+        "University Agreement"
+      ]
+    },
+    {
+      "id": "agreement-013",
+      "name": "Qingdao University (QDU)",
+      "country": "China",
+      "agreementTypes": [
+        "University Agreement"
+      ]
+    },
+    {
+      "id": "agreement-014",
+      "name": "Shandong Normal University (SDNU)",
+      "country": "China",
+      "agreementTypes": [
+        "University Agreement"
+      ]
+    },
+    {
+      "id": "agreement-015",
+      "name": "Tianjin Maritime College (TMC)",
+      "country": "China",
+      "agreementTypes": [
+        "University Agreement"
+      ]
+    },
+    {
+      "id": "agreement-016",
+      "name": "Hainan University (HNU)",
+      "country": "China",
+      "agreementTypes": [
+        "University Agreement"
+      ]
+    },
+    {
+      "id": "agreement-017",
+      "name": "SIAS International University (SIAS)",
+      "country": "China",
+      "agreementTypes": [
+        "University Agreement"
+      ]
+    },
+    {
+      "id": "agreement-018",
+      "name": "Southwest University (SWU)",
+      "country": "China",
+      "agreementTypes": [
+        "Memorandum of Understanding",
+        "University Agreement"
+      ]
+    },
+    {
+      "id": "agreement-019",
+      "name": "Universidad de Oriente (UNIVO)",
+      "country": "El Salvador",
+      "agreementTypes": [
+        "University Agreement"
+      ]
+    },
+    {
+      "id": "agreement-020",
+      "name": "Andhra University (AU)",
+      "country": "India",
+      "agreementTypes": [
+        "University Agreement"
+      ]
+    },
+    {
+      "id": "agreement-021",
+      "name": "Santosh University (SU)",
+      "country": "India",
+      "agreementTypes": [
+        "University Agreement"
+      ]
+    },
+    {
+      "id": "agreement-022",
+      "name": "Universitas Muhammadiyah Sidoarjo",
+      "country": "Indonesia",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-023",
+      "name": "American University Kurdistan (AUK)",
+      "country": "Iraq",
+      "agreementTypes": [
+        "University Agreement"
+      ]
+    },
+    {
+      "id": "agreement-024",
+      "name": "TEFL in Italy",
+      "country": "Italy",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-025",
+      "name": "Aoyama Gakuin University",
+      "country": "Japan",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-026",
+      "name": "Gunma University",
+      "country": "Japan",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-027",
+      "name": "Ikuei University",
+      "country": "Japan",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-028",
+      "name": "Isesaki City Government",
+      "country": "Japan",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-029",
+      "name": "A.K. Kussayinov Eurasian Humanities Institute (EAGI)",
+      "country": "Kazakhstan",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-030",
+      "name": "University of Nairobi",
+      "country": "Kenya",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-031",
+      "name": "Daegu University",
+      "country": "Korea",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-032",
+      "name": "Sogang University",
+      "country": "Korea",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-033",
+      "name": "Universidad Anáhuac Mayab",
+      "country": "Mexico",
+      "agreementTypes": [
+        "University Agreement"
+      ]
+    },
+    {
+      "id": "agreement-034",
+      "name": "Orkhon University (OU) & Orkhon Khasu International School",
+      "country": "Mongolia",
+      "agreementTypes": [
+        "University / High School Agreement"
+      ]
+    },
+    {
+      "id": "agreement-035",
+      "name": "ESCA",
+      "country": "Morocco",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-036",
+      "name": "Harmonia School",
+      "country": "Morocco",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-037",
+      "name": "Padmakanya Multiple Campus, Tribhuvan University",
+      "country": "Nepal",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-038",
+      "name": "Adeleke University",
+      "country": "Nigeria",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-039",
+      "name": "University of Calabar",
+      "country": "Nigeria",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-040",
+      "name": "University of Ibadan",
+      "country": "Nigeria",
+      "agreementTypes": [
+        "Memorandum of Understanding",
+        "University Agreement"
+      ]
+    },
+    {
+      "id": "agreement-041",
+      "name": "University of Lagos",
+      "country": "Nigeria",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-042",
+      "name": "University of Agriculture in Krakow",
+      "country": "Poland",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-043",
+      "name": "Unversidade Catolica Portuguesa",
+      "country": "Portugal",
+      "agreementTypes": [
+        "University Agreement"
+      ]
+    },
+    {
+      "id": "agreement-044",
+      "name": "University of Pretoria",
+      "country": "South Africa",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-045",
+      "name": "TEFL in Malaga",
+      "country": "Spain",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-046",
+      "name": "Chihlee Institute of Technology (CIT)",
+      "country": "Taiwan",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-047",
+      "name": "National Ilan University (NIU)",
+      "country": "Taiwan",
+      "agreementTypes": [
+        "University Agreement"
+      ]
+    },
+    {
+      "id": "agreement-048",
+      "name": "Tainan National University of the Arts (TNUA)",
+      "country": "Taiwan",
+      "agreementTypes": [
+        "Student & Faculty Exchange Agreement"
+      ]
+    },
+    {
+      "id": "agreement-049",
+      "name": "\"Silk Road\" International University of Tourism and Cultural Heritage",
+      "country": "Uzbekistan",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-050",
+      "name": "Bukhara State Techinical University",
+      "country": "Uzbekistan",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-051",
+      "name": "Inha University in Tashkent (IUT)",
+      "country": "Uzbekistan",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-052",
+      "name": "Technology, Management, Communication Institute (TMCI)",
+      "country": "Uzbekistan",
+      "agreementTypes": [
+        "University Agreement"
+      ]
+    },
+    {
+      "id": "agreement-053",
+      "name": "Termez University of Economics and Service",
+      "country": "Uzbekistan",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-054",
+      "name": "Japanese International School (JIS)",
+      "country": "Vietnam",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-055",
+      "name": "The Hung Yen University of Technology and Education (UTEHY)",
+      "country": "Vietnam",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-056",
+      "name": "University of Dong A",
+      "country": "Vietnam",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-057",
+      "name": "University of Economics Ho Chi Minh City (UEH)",
+      "country": "Vietnam",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-058",
+      "name": "University of Technology & Engineering (UTE)",
+      "country": "Vietnam",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-059",
+      "name": "Van Hien University (VHN)",
+      "country": "Vietnam",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    },
+    {
+      "id": "agreement-060",
+      "name": "Vietnam National University Ho Chi Minh City-University of Science (VNUHCM-US)",
+      "country": "Vietnam",
+      "agreementTypes": [
+        "Memorandum of Understanding"
+      ]
+    }
+  ]
+}
