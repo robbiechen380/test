@@ -26,11 +26,11 @@ This applies to the current website and source tree. Earlier Git commits retain 
 
 Static HTML/CSS/JavaScript on GitHub Pages, branch `msu-international-partners` in `robbiechen380/test`.
 
-Website: https://robbiechen380.github.io/test/?v=atlas-5
-Embed preview: https://robbiechen380.github.io/test/embed-demo.html?v=atlas-5
+Website: https://robbiechen380.github.io/test/?v=atlas-5.1
+Embed preview: https://robbiechen380.github.io/test/embed-demo.html?v=atlas-5.1
 
 ```html
-<iframe src="https://robbiechen380.github.io/test/?embed=1&v=atlas-5"
+<iframe src="https://robbiechen380.github.io/test/?embed=1&v=atlas-5.1"
   title="MSU Global Agreements" width="100%" height="480"
   style="border:0;" allow="fullscreen" allowfullscreen></iframe>
 ```
